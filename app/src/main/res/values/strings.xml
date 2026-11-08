@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiniBrowser</string>
+    <string name="address">Введите адрес</string>
+    <string name="pass">Перейти</string>
+</resources>
